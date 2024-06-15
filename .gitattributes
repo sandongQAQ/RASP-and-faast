@@ -1,0 +1,2 @@
+MindSPONGE filter=lfs diff=lfs merge=lfs -text
+MindSPONGE/ filter=lfs diff=lfs merge=lfs -text
